@@ -42,6 +42,7 @@
       "no-param-reassign": "off",
       "no-use-before-define": "off",
       "prettier/prettier": "error",
+      "react/jsx-one-expression-per-line": "off",
       "react-hooks/exhaustive-deps": "warn",
       "react-hooks/rules-of-hooks": "error",
       "react/jsx-props-no-spreading": "off",
