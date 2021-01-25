@@ -38,7 +38,7 @@
         {
           "ts": "never",
           "tsx": "never"
-        },
+        }
      ],
      "prettier/prettier": "error"
     },
