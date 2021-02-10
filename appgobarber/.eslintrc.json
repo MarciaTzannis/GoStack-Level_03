@@ -29,12 +29,15 @@
         "prettier"
     ],
     "rules": {
+      "react/prop-types": "off",
+      "react/jsx-props-no-spreading": "off",
       "react-hooks/rules-of-hooks": "error",
       "react-hooks/exhaustive-deps": "warn",
       "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
       "import/prefer-default-export": "off",
       "no-unused-expressions": "off",
       "no-use-before-define": "off",
+      "@typescript-eslint/no-unused-vars": "off",
       "import/extensions": [
         "error",
         "ignorePackages",
